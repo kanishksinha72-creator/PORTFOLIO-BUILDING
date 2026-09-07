@@ -1,10 +1,7 @@
 # Simple Line Editor in C
 
 ## Team Members
-
-- Name 1
-- Name 2
-- Name 3
+Kanishk Sinha
 
 ## Project Description
 
